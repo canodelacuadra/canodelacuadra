@@ -8,9 +8,9 @@ let Jose={
     lenguajes:["html","css","javascript","php","sql","xml"],
     apis:["DOM","BOM","fetch"],
     frameworks:["jQuery","Vue.js","laravel"],
-    cms:["wordpress","prestashop","moodle","css"],
+    cms:["wordpress","prestashop","moodle"],
     arquitecturas:['apache','node'],
-    herramientas:["git","npm",]
+    herramientas:["git","npm"]
     
 }
 ````
