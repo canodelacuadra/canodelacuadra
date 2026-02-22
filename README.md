@@ -26,7 +26,7 @@ const Jose = {
   APIs: ["Google Maps", "APIs HTML5", "YouTube", "REST APIs", "GraphQL", "DOM", "BOM", "fetch"],
   bases de datos: ["PostgreSQL", "MySQL", "MongoDB"],
   CMS: ["WordPress", "WooCommerce", "Prestashop", "Joomla", "Drupal", "Moodle"],
-  herramientas: ["VS Code", "Git", "GitHub", "GitHub Actions", "npm", "Docker", "Vercel", "Netlify"],
+herramientas: ["VS Code", "Git", "GitHub", "GitHub Actions", "npm", "Docker", "Vercel", "Netlify", "JSDoc", "ESLint", "Prettier", "Postman", "WSL"],
   herramientasIA: ["GitHub Copilot", "Cursor", "OpenCode"],
   testing: ["Jest", "Cypress"],
   audiovisual: ["Photoshop", "Gimp", "Figma", "Illustrator", "InDesign", "Premiere", "After Effects"]
